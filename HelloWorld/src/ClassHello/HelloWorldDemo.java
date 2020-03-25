@@ -1,3 +1,4 @@
+package ClassHello;
 
 public class HelloWorldDemo {
   
@@ -5,6 +6,7 @@ public class HelloWorldDemo {
 	
 	  System.out.println("Helloworld");
 	  System.out.println("Rahul here");
+	  System.out.println(new Parent("Mr. Shashi kant", 50));
 }
 
 }
